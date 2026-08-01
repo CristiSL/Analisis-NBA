@@ -1,0 +1,62 @@
+player,season,pos,salario_millones,ws,ws_por_millon,categoria_valor
+Trayce Jackson-Davis,2024,PF,"1,152829","4,8","4,163670414259183",Infravalorado
+Gary Payton II,2022,PG,"1,930149","5,2","2,694092528607895",Infravalorado
+Juan Toscano-Anderson,2021,SG,"1,150399","3,0","2,6077908621269663",Infravalorado
+Jordan Poole,2022,SG,"2,499375","6,0","2,4006001500375094",Infravalorado
+Trayce Jackson-Davis,2025,C,"1,891857","3,4","1,7971760022031265",Infravalorado
+Damion Lee,2021,SG,"2,148304","2,7","1,25680536832776",Infravalorado
+Nemanja Bjelica,2022,C,"2,416128","3,0","1,2416560712015257",Infravalorado
+Damion Lee,2022,SG,"2,209618","2,7","1,221930668559",Infravalorado
+Brandin Podziemski,2025,SG,"3,51996","4,2","1,1931953772201958",Infravalorado
+Brandin Podziemski,2024,SG,"3,452017","4,1","1,1877114162531643",Infravalorado
+Kevon Looney,2022,C,"5,988228","6,8","1,135561304612984",Infravalorado
+Kevon Looney,2023,C,"8,482304","8,7","1,025664725055834",Infravalorado
+Juan Toscano-Anderson,2022,SF,"1,967632","2,0","1,0164502305309122",Infravalorado
+Gui Santos,2025,PF,"1,891857","1,7","0,8985880011015632",Infravalorado
+Donte DiVincenzo,2023,SG,"4,771296","4,2","0,88026397859198",Infravalorado
+Jordan Poole,2023,PG,"4,136606","3,2","0,7735810468775611",Infravalorado
+Jordan Poole,2021,SG,"2,514501","1,9","0,7556171184660495",Infravalorado
+Jonathan Kuminga,2024,PF,"6,191505","4,6","0,7429534499285714",Infravalorado
+Gui Santos,2024,PF,"1,060073","0,7","0,6603318828042973",Valor de mercado
+Mychal Mulder,2021,PG,"1,84995","1,2","0,6486661801670315",Valor de mercado
+Kent Bazemore,2021,SF,"2,827417","1,8","0,6366234623332887",Valor de mercado
+Moses Moody,2025,SG,"5,803269","3,5","0,6031083515170501",Valor de mercado
+Moses Moody,2024,SG,"4,034913","2,4","0,5948083638978089",Valor de mercado
+Kevon Looney,2021,C,"5,875834","3,4","0,5786412618191732",Valor de mercado
+Kevon Looney,2025,C,"8,0","4,3","0,5375",Valor de mercado
+Andre Iguodala,2022,SF,"3,054712","1,6","0,523780965275941",Valor de mercado
+Kevon Looney,2024,C,"7,722854","4,0","0,5179432370468223",Valor de mercado
+Eric Paschall,2021,PF,"1,84995","0,9","0,48649963512527367",Valor de mercado
+Jonathan Kuminga,2022,SF,"6,321011","3,0","0,47460762210348945",Valor de mercado
+Ty Jerome,2023,SG,"5,014046","2,1","0,4188234411890119",Valor de mercado
+Jonathan Kuminga,2023,PF,"6,085883","2,4","0,39435526447025027",Valor de mercado
+Gary Payton II,2025,SG,"9,13","3,0","0,32858707557502737",Valor de mercado
+Moses Moody,2023,SG,"3,965646","1,3","0,32781544293161824",Valor de mercado
+Buddy Hield,2025,SG,"8,780488","2,8","0,31888888180246927",Valor de mercado
+Moses Moody,2022,SG,"4,119141","1,3","0,31559978160495117",Valor de mercado
+JaMychal Green,2023,PF,"8,69436","2,2","0,2530376013875662",Valor de mercado
+Jonathan Kuminga,2025,PF,"7,636307","1,9","0,24881136916051172",Valor de mercado
+Gary Payton II,2024,SG,"8,973957","1,8","0,20058041285466377",Sobrepagado
+Jimmy Butler,2025,SF,"48,798677","8,7","0,1782835219077763",Sobrepagado
+Draymond Green,2023,PF,"27,362288","4,7","0,17176926140094717",Sobrepagado
+Stephen Curry,2021,PG,"52,411485","9,0","0,17171808812515044",Sobrepagado
+Draymond Green,2021,PF,"27,112175","4,6","0,1696654731684197",Sobrepagado
+Draymond Green,2024,PF,"22,984687","3,6","0,15662601800929463",Sobrepagado
+Draymond Green,2025,PF,"24,107143","3,7","0,1534814805719616",Sobrepagado
+Stephen Curry,2023,PG,"50,968059","7,8","0,15303702265766095",Sobrepagado
+Stephen Curry,2022,PG,"52,938707","8,0","0,15111816010164358",Sobrepagado
+Stephen Curry,2025,PG,"55,761216","7,9","0,14167553304432962",Sobrepagado
+Andrew Wiggins,2022,SF,"36,516749","5,1","0,13966193978549404",Sobrepagado
+Chris Paul,2024,PG,"31,71519","4,3","0,13558171967438945",Sobrepagado
+Stephen Curry,2024,PG,"53,458234","7,2","0,1346845838566235",Sobrepagado
+Draymond Green,2022,PF,"27,783229","3,6","0,129574571767738",Sobrepagado
+Gary Payton II,2023,PG,"8,80039","1,0","0,11363132770252227",Sobrepagado
+Andrew Wiggins,2024,SF,"25,053308","2,8","0,11176168831676837",Sobrepagado
+Andrew Wiggins,2021,PF,"36,002595","3,9","0,10832552486841573",Sobrepagado
+Klay Thompson,2024,SF,"44,503661","3,6","0,08089222142870449",Sobrepagado
+Klay Thompson,2023,SG,"43,047777","3,1","0,07201301010270518",Sobrepagado
+James Wiseman,2021,C,"10,639468","0,7","0,06579276332237663",Sobrepagado
+Andrew Wiggins,2023,SF,"35,643458","2,3","0,06452797032207143",Sobrepagado
+Cory Joseph,2024,PG,"3,291427","0,2","0,06076391789943997",Sobrepagado
+Klay Thompson,2022,SG,"43,918911","1,8","0,040984622774458135",Sobrepagado
+Ryan Rollins,2023,PG,"1,07914","-0,3","-0,27799914746928106",Sobrepagado
