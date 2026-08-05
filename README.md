@@ -1,7 +1,9 @@
-# ¿Los jugadores valen lo que cobran?
-### Análisis de valor, rendimiento y gestión de minutos en la NBA — caso Golden State Warriors
+# ¿Los jugadores de la NBA valen lo que cobran?
+### Análisis de valor, rendimiento y gestión de minutos en la NBA — caso Golden State Warriors (GSW)
 
 Proyecto de análisis de datos que cruza salario y rendimiento (Win Shares) de la NBA entre 2010 y 2025, con un foco específico en la evaluación del roster de Golden State Warriors (2021-2025): qué jugadores están infravalorados o sobrepagados respecto al mercado, y cómo gestiona el equipo la carga de minutos de sus jugadores.
+
+📄 Los resultados, insights y recomendaciones del análisis están en **[ANALISIS.md](./ANALISIS.md)**. Este README cubre solo la parte técnica del proyecto.
 
 ## 🎯 Objetivo
 
@@ -29,7 +31,8 @@ HoopsHype (hoopshype.com) — fuente secundaria de validación de salarios.
 ```
 ├── Análisis NBA.ipynb           # Notebook completo: limpieza, EDA, análisis, exportación
 ├── Análisis NBA.pbix            # Dashboard interactivo (5 páginas)
-├── README.md
+├── README.md                    # Este archivo — parte técnica
+├── ANALISIS.md                  # Resultados, insights y recomendaciones
 ├── capturas/                    # Capturas de cada página del dashboard
 └── data/
     ├── Advanced.csv                                     # Dataset Kaggle (sumitrodatta)
